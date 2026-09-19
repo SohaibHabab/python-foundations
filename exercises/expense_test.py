@@ -16,4 +16,5 @@ print(f"Category: {category2}")
 
 somme_expenses = price1 + price2
 print(f"Total expenses:{somme_expenses} MAD")
-print("Program finished")
+print("Exepense Program finished")
+
