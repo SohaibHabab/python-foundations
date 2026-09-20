@@ -15,6 +15,8 @@ print(f"Price: {price2} MAD")
 print(f"Category: {category2}")
 
 somme_expenses = price1 + price2
-print(f"Total expenses:{somme_expenses} MAD")
+print(f"Total expenses: {somme_expenses} MAD")
 print("Expense Program finished")
 
+average_expense = somme_expenses / 2
+print(f"Average expense: {average_expense} MAD")
